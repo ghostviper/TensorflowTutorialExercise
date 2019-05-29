@@ -104,5 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # ignore data files
-data/MNIST/*.gz
-data/CIFAR-10/*.gz
+data/MNIST/*
+data/CIFAR-10/*
+checkpoints/*
